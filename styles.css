@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+table{
+	border:1px solid orange;
+	border-collapse:collapse;
+	
+}
+thead{
+	background-color:#888;
+	color:white;
+	
+}
+th,td{
+	text-align:center;
+	border:1px solid orange;
+	padding:3px 5px;
+}
