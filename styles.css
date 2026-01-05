@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
 
 table{
-	border-left:1px solid orange;
-	border-bottom:1px solid orange;
+	border-left-width:1px;
+	border-bottom-width:1px;
+	border-color:orange;
+	border-style:solid;
 	border-collapse:collapse;
 	
 }
