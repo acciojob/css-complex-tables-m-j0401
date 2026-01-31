@@ -22,6 +22,7 @@ th,td{
 	text-align:center;
 	border:1px solid orange;
 	padding:3px 5px;
+	background-color:rgb(136,136,136);
 }
 .sub-total-text{
 	text-align:right;
